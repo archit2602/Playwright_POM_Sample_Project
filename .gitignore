@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Playwright test results and artifacts
+test-results/
+playwright-report/
+
+# Ignore environment configuration and test data (e.g., sensitive credentials)
+.env
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore lock files if not needed for consistent dependency management
+package-lock.json
