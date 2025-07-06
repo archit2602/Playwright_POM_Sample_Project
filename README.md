@@ -1,4 +1,4 @@
-# Magnifi-Assignment
+# Playwright POM Sample Project
 
 # Magnifi Video Editor Automation Project
 
